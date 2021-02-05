@@ -33,7 +33,7 @@ Install-Package Microsoft.EntityFrameworkCore.SqlServer           -Version 3.1.8
 ```
 "AllowedHosts": "*",
   "ConnectionStrings": {
-    "NetflixDatabase": "Server=192.168.1.135;Database=netflix;User ID=remote;Password=remote"
+    "NetflixDatabase": "Server=192.168.1.135;Database=netflix;User ID=usuario;Password=password"
     }
 ```
 #### 4. URIs endpoints.
