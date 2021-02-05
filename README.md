@@ -1,18 +1,18 @@
 # Netflix_API
 Netflix_API (ER + SQL)
 
-#### 2. Description
+#### 1. Description
 ```
 Demo API REST creada con .NET COre 3.1 utilizando varias entidades ER y conectada con base de datos 
 MS Sql Virtualizada sobre Fedora 32  y Virtualbox 6.1. Aplicación con fines educativos.
 ```
 
-#### 3. Link a un demo con el proyecto desplegado: https://github.com/JoseMarin/Netflix_API
+#### 2. Link a un demo con el proyecto desplegado: https://github.com/JoseMarin/Netflix_API
 
 ```
 * Nombre de la App: [GITTT] (https://github.com/)
 ```
-#### 4. Lista con los pasos mínimos que se necesitan para clonar exitosamente el proyecto y echarlo a andar en local.
+#### 3. Lista con los pasos mínimos que se necesitan para clonar exitosamente el proyecto y echarlo a andar en local.
 
 ###### Install
 ```
@@ -36,7 +36,7 @@ Install-Package Microsoft.EntityFrameworkCore.SqlServer           -Version 3.1.8
     "NetflixDatabase": "Server=192.168.1.135;Database=netflix;User ID=remote;Password=remote"
     }
 ```
-#### 5. URIs endpoints.
+#### 4. URIs endpoints.
 ```
 Clientes
 GET       /api/Clientes
