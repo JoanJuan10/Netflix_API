@@ -10,7 +10,7 @@ MS Sql Virtualizada sobre Fedora 32  y Virtualbox 6.1. Aplicación con fines edu
 #### 2. Link a un demo con el proyecto desplegado: https://github.com/JoseMarin/Netflix_API
 
 ```
-* Nombre de la App: [GITTT] (https://github.com/)
+* Nombre de la App: [GIT] (https://github.com/)
 ```
 #### 3. Lista con los pasos mínimos que se necesitan para clonar exitosamente el proyecto y echarlo a andar en local.
 
