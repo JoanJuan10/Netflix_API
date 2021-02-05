@@ -3,8 +3,8 @@ Netflix_API (ER + SQL)
 
 #### 2. Description
 ```
-Demo API REST creada con .NET COre 3.1 utilizando varias entidades ER y conectada con base de datos MS Sql Virtualizada sobre Fedora 32  y 
-Virtualbox 6.1. Aplicación con fines educativos.
+Demo API REST creada con .NET COre 3.1 utilizando varias entidades ER y conectada con base de datos 
+MS Sql Virtualizada sobre Fedora 32  y Virtualbox 6.1. Aplicación con fines educativos.
 ```
 
 #### 3. Link a un demo con el proyecto desplegado: https://github.com/JoseMarin/Netflix_API
@@ -55,3 +55,4 @@ DELETE    /api/Videos/{id}
 ```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
+![image](https://user-images.githubusercontent.com/16636086/106975608-1f4eb680-6757-11eb-90c9-af48dba80385.png)
